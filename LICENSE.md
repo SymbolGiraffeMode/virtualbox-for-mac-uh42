@@ -1,4 +1,4 @@
-
+Enhance VirtualBox for macOS with premium VirtualBox for macOS Integration | 3D-graphics-support + snapshot-rollback, the #1 integration. Includes 3D-graphics-support and
 
 
 
